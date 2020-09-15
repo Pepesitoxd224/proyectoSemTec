@@ -1,0 +1,2 @@
+# proyectoSemTec
+detector de bordes
